@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Denver Men's Lacrosse",
+      "opponent": "Michigan",
+      "date": "2026-02-28"
+    },
+    {
+      "duTeam": "Denver Women's Tennis",
+      "opponent": "St. Thomas",
+      "date": "2026-02-28"
+    },
+    {
+      "duTeam": "Denver Men's Ice Hockey",
+      "opponent": "Arizona State",
+      "date": "2026-02-28"
+    },
+    {
+      "duTeam": "Denver Women's Golf",
+      "opponent": "Round 1",
+      "date": "2026-03-01"
+    },
+    {
+      "duTeam": "Denver Women's Tennis",
+      "opponent": "Minnesota",
+      "date": "2026-03-01"
+    },
+    {
+      "duTeam": "Denver Men's Tennis",
+      "opponent": "Air Force",
+      "date": "2026-03-01"
+    },
+    {
+      "duTeam": "Denver Women's Lacrosse",
+      "opponent": "High Point",
+      "date": "2026-03-01"
+    },
+    {
+      "duTeam": "Denver Women's Gymnastics",
+      "opponent": "(12) Utah",
+      "date": "2026-03-01"
+    },
+    {
+      "duTeam": "Denver Women's Golf",
+      "opponent": "Round 2",
+      "date": "2026-03-02"
+    },
+    {
+      "duTeam": "Denver Women's Golf",
+      "opponent": "Round 3",
+      "date": "2026-03-03"
+    },
+    {
+      "duTeam": "Denver Women's Lacrosse",
+      "opponent": "Stony Brook",
+      "date": "2026-03-06"
+    },
+    {
+      "duTeam": "Denver Men's Tennis",
+      "opponent": "New Mexico",
+      "date": "2026-03-06"
+    },
+    {
+      "duTeam": "Denver Women's Basketball",
+      "opponent": "South Dakota",
+      "date": "2026-03-06"
+    },
+    {
+      "duTeam": "Denver Women's Gymnastics",
+      "opponent": "Air Force, San Jose State",
+      "date": "2026-03-06"
+    },
+    {
+      "duTeam": "Denver Men's Ice Hockey",
+      "opponent": "Miami",
+      "date": "2026-03-06"
+    },
+    {
+      "duTeam": "Denver Men's Basketball",
+      "opponent": "North Dakota",
+      "date": "2026-03-06"
+    },
+    {
+      "duTeam": "Denver Women's Soccer",
+      "opponent": "Colorado State 8v8 Tournament",
+      "date": "2026-03-07"
+    },
+    {
+      "duTeam": "Denver Women's Basketball",
+      "opponent": "Semifinals",
+      "date": "2026-03-07"
+    },
+    {
+      "duTeam": "Denver Women's Tennis",
+      "opponent": "South Dakota",
+      "date": "2026-03-07"
+    },
+    {
+      "duTeam": "Denver Men's Tennis",
+      "opponent": "Northern Arizona",
+      "date": "2026-03-07"
+    }
+  ]
+}
